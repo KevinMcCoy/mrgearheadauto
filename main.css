@@ -60,6 +60,10 @@ nav#menu .menu ul{
 	list-style-type: none;
 }
 
+ul.social_media{
+	overflow: visible;
+}
+
 li.fb-like{
 	position: relative;
 	top: -23px;

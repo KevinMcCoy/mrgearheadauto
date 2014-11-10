@@ -59,3 +59,8 @@ nav#menu .menu ul{
 #sidebar .widget ul li{
 	list-style-type: none;
 }
+
+li.fb-like{
+	position: relative;
+	top: -23px;
+}

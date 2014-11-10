@@ -1,0 +1,53 @@
+div#page-wrap.contain{
+	width: auto;
+}
+
+
+/* ////// Top Nav Bar ////// */
+header#branding{
+	width: 1042px;
+	margin: 0 auto;
+	padding-left: 40px;
+}
+
+header h1, header h2{
+	float: left;
+}
+
+nav#menu{
+	display: inline-block;
+	width: auto;
+	float: none;
+
+	margin: 30px 0 0 45px;
+}
+nav#menu .menu ul{
+	margin-right: 10px;
+}
+
+/* ////// End Top Nav Bar ////// */
+
+
+
+#container.contain{
+	width: 1240px;
+	margin: 0 auto;
+}
+
+#main, #sidebar{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+#main{
+	width: 750px;
+}
+
+#sidebar{
+	width: 440px;
+}
+
+#sidebar h2{
+	width: 105%;
+}

@@ -1,3 +1,7 @@
+
+
+
+
 div#page-wrap.contain{
 	width: auto;
 }
@@ -50,4 +54,8 @@ nav#menu .menu ul{
 
 #sidebar h2{
 	width: 105%;
+}
+
+#sidebar .widget ul li{
+	list-style-type: none;
 }

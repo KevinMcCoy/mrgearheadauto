@@ -124,14 +124,14 @@ var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, pleas
 
 <!-- Twitter -->
 	<script type="text/javascript">
-	window.twttr = (function (d, s, id) {
-	  var t, js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src= "https://platform.twitter.com/widgets.js";
-	  fjs.parentNode.insertBefore(js, fjs);
-	  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
-	}(document, "script", "twitter-wjs"));
+		window.twttr = (function (d, s, id) {
+		  var t, js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src= "https://platform.twitter.com/widgets.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+		  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+		}(document, "script", "twitter-wjs"));
 	</script>
 
 </head>
@@ -141,6 +141,16 @@ var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, pleas
 
 
 <body class="home page page-id-4 page-template-default custom-background mp6 highlander-enabled highlander-dark">
+
+	<!-- Facebook Script - Not located in head -->
+	<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
@@ -243,7 +253,8 @@ var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, pleas
 				<li id="linkcat-3475" class="widget widget_links">
 					<h2 class="widget-title">Social Media</h2>
 					<ul class='xoxo blogroll'>
-						<li><a href="http://www.facebook.com/mrgearheadllc" rel="me" target="_blank">Facebook</a></li>
+						<li>
+							<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-action="recommend" data-show-faces="true" data-share="true"></div>
 						<li>
 							<!-- Google Plus - Place this tag where you want the widget to render. -->
 							<div class="g-follow" data-annotation="none" data-height="24" data-href="//plus.google.com/u/0/113003904954446197033" data-rel="publisher"></div>

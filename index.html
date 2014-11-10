@@ -121,6 +121,19 @@ var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, pleas
 
 	<!-- Google Plus Button - Place this tag in your head or just before your close body tag. -->
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<!-- Twitter -->
+	<script type="text/javascript">
+	window.twttr = (function (d, s, id) {
+	  var t, js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src= "https://platform.twitter.com/widgets.js";
+	  fjs.parentNode.insertBefore(js, fjs);
+	  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+	}(document, "script", "twitter-wjs"));
+	</script>
+
 </head>
 
 
@@ -233,7 +246,15 @@ var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, pleas
 						<li><a href="http://www.facebook.com/mrgearheadllc" rel="me" target="_blank">Facebook</a></li>
 						<li>
 							<!-- Google Plus - Place this tag where you want the widget to render. -->
-							<div class="g-follow" data-annotation="none" data-height="24" data-href="//plus.google.com/u/0/104910672253194743022" data-rel="publisher"></div>
+							<div class="g-follow" data-annotation="none" data-height="24" data-href="//plus.google.com/u/0/113003904954446197033" data-rel="publisher"></div>
+						</li>
+						<li>
+							<a class="twitter-follow-button"
+							  href="https://twitter.com/mrgearheadauto"
+							  data-show-count="false"
+							  data-lang="en">
+							Follow @mrgearheadauto
+							</a>
 						</li>
 					</ul>
 				</li>

@@ -10,7 +10,7 @@
 <!--<![endif]-->
 <head>
 	<meta charset="UTF-8" />
-	<title>Mr.Gearhead Auto | Get it right the first time</title>
+	<title>Mr.Gearhead Auto | Colorado</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 
 	<!--[if lt IE 9]>
@@ -33,9 +33,10 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mrgearheadauto.wordpress.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+
 <meta name="generator" content="WordPress.com" />
 <link rel='canonical' href='http://mrgearheadauto.com/' />
-<link rel='shortlink' href='http://wp.me/P4ZLAm-4' />
+<link rel='shortlink' href='http://192.241.145.32/mrgearheadauto.com/' />
 <link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fmrgearheadauto.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fmrgearheadauto.com%2F&amp;for=wpcom-auto-discovery" />
 
 <!-- Jetpack Open Graph Tags -->
@@ -46,55 +47,12 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <meta property="og:site_name" content="Mr. Gear Head Auto" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
 
-<meta name="twitter:site" content="@wordpressdotcom" />
-<meta name="twitter:card" content="summary" />
-
 <meta property="article:publisher" content="Kevin McCoy" />
 
 <link rel='openid.server' href='http://mrgearheadauto.wordpress.com/?openidserver=1' />
 <link rel='openid.delegate' href='http://mrgearheadauto.wordpress.com/' />
-<link rel="search" type="application/opensearchdescription+xml" href="http://mrgearheadauto.com/osd.xml" title="Mr. Gear Head Auto" />
-<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
-		<style type="text/css">
-			.recentcomments a {
-				display: inline !important;
-				padding: 0 !important;
-				margin: 0 !important;
-			}
+<link rel="search" type="application/opensearchdescription+xml" href="http://mrgearheadauto.com/osd.xml" title="Mr. Gearhead Auto" />
 
-			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
-				border: 0px;
-				margin: 0;
-			}
-
-			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
-				border: 0px !important;
-				background-color: transparent !important;
-			}
-
-			td.recentcommentsavatarend, td.recentcommentsavatartop {
-				padding: 0px 0px 1px 0px;
-				margin: 0px;
-			}
-
-			td.recentcommentstextend {
-				border: none !important;
-				padding: 0px 0px 2px 10px;
-			}
-
-			.rtl td.recentcommentstextend {
-				padding: 0px 10px 2px 0px;
-			}
-
-			td.recentcommentstexttop {
-				border: none;
-				padding: 0px 0px 0px 10px;
-			}
-
-			.rtl td.recentcommentstexttop {
-				padding: 0px 10px 0px 0px;
-			}
-		</style>
 
 <meta name="application-name" content="Mr. Gear Head Auto" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Get it right the first time" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://mrgearheadauto.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Services | Mr. Gear Head Auto on WordPress.com" />
 <meta name="description" content="Mr. Gearhead offers an array of services for your automotive and truck needs. At Mr. Gearhead we care about you and your car and suggest that you take a serious look at preventative maintenance for the long-term welfare of your car and your pocketbook. Nothing keeps your automobile running optimally and safer than prevention and&hellip;" />
@@ -102,21 +60,25 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <style type="text/css" id="custom-background-css">
 		body.custom-background { background-color: #001d54; }
 </style>
-<style type="text/css" id="syntaxhighlighteranchor"></style>
 
 
 	<!-- Fav Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="image/logo.png" sizes="16x16 24x24 32x32 48x48" />
-	<link rel="icon" type="image/x-icon" href="image/logo.png" sizes="16x16 24x24 32x32 48x48" />
-	<link rel="apple-touch-icon-precomposed" href="image/logo.png" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/logo.png" sizes="16x16 24x24 32x32 48x48" />
+	<link rel="icon" type="image/x-icon" href="images/logo.png" sizes="16x16 24x24 32x32 48x48" />
+	<link rel="apple-touch-icon-precomposed" href="images/logo.png" />
 
 	<!-- default CSS  -  Main.CSS -->
+	<link rel="stylesheet" type="text/css" href="css/_static.css">
+	<!-- <link rel="stylesheet" type="text/css" href="css/global-print.css"> -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="main.css">
 
 	<!-- Google Plus Button - Place this tag in your head or just before your close body tag. -->
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 
 	<!-- Twitter -->
+	<meta name="twitter:site" content="@mrgearheadauto" />
+	<meta name="twitter:card" content="summary" />
 	<script type="text/javascript">
 		window.twttr = (function (d, s, id) {
 		  var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -126,7 +88,7 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 		  fjs.parentNode.insertBefore(js, fjs);
 		  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
 		}(document, "script", "twitter-wjs"));
-	</script>
+	</script><!-- [End] Twitter -->
 
 </head>
 

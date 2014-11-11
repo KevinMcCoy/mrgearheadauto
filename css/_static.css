@@ -1481,7 +1481,7 @@ Tags: black, dark, orange, two-columns, fixed-layout, custom-background, custom-
 
 
 body {
-	background: #202228 url(/wp-content/themes/pub/parament/images/diagonal-stripes-010.png);
+	background: #202228 url(../images/diagonal-stripes-010.png);
 	color: #989eae;
 	font-size: 14px;
 	margin: 0;

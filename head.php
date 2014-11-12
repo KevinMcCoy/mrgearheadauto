@@ -22,8 +22,6 @@
 function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
 /* ]]> */
 </script>
-<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/_static/??-eJx9kdFuwyAMRX9ozGrURdrDtG8hxCWkBiNwFPXvC822KkrHC9jWPdc2wBqV4SAYBPyiIi3WhQzZO8JbTDyjkX32bnJ+g9cYuStmmFGiNlf1yA7ygdg+AbYWR15EXZiIV1jdaLHZw3DCUvdRS1V4HJ1GQl9kLczH/peq4VQGPM62a+Or5bYEFOG+sqEOAosrdP4LDp4yldkyxGWAqJOuFpDlRtjqjp5nt50tmUVWxEaL47BL1IW0Sy00Yf2IEtrHcs+0BUXOsllDnnSq8M/dnjJg2l7pZfjfk01nsMSDpir49l+n8+mj67uu/5zvNo4F5Q==' type='text/css' media='all' />
-<link rel='stylesheet' id='print-css-0' href='http://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g' type='text/css' media='print' />
 
 <script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFjd0KwjAMRl/IrttQ8EZ8lv1kJbVtapOu6NNbQUFR2FVCcr7v6BLVREEgiLasPY3oQGWGNJh6UxgWaizvdOUwTC7PwE/QXjOk22tsAsqjSYNA4zG84Q9rJBYPzFX55/utwrAilE3MgsRhuqgEjPef1tGRUdFlg4F13Q3MlEUt5BwVXXA2IDVz9qdu37aHY9e3vX0APQlvpA=='></script>
 <link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
@@ -68,8 +66,8 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 	<link rel="apple-touch-icon-precomposed" href="images/logo.png" />
 
 	<!-- default CSS  -  Main.CSS -->
-	<link rel="stylesheet" type="text/css" href="css/_static.css">
-	<!-- <link rel="stylesheet" type="text/css" href="css/global-print.css"> -->
+	<link rel="stylesheet" type="text/css" media='all' href="css/_static.css">
+	<link rel="stylesheet" type="text/css" media='print' href="css/global-print.css"> -->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="main.css">
 

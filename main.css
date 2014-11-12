@@ -1,3 +1,6 @@
+/* CSS Written by Kevin McCoy 2014 */
+
+/* Global */
 body.custom-background{
 	/*background-color: rgb(233,61,28);*/
 	background-color: rgb(3,21,64);
@@ -7,7 +10,6 @@ body,
 body .hentry p{
 	color: rgb(3, 21, 64);
 }
-
 
 body .widget,
 body .widget a,
@@ -24,7 +26,6 @@ body .widget,
 nav#menu ul li.current_page_item a{
 	color: whitesmoke;
 }
-}
 
 nav#menu ul li.current_page_item a{
 	font-size: 1.05em;
@@ -34,16 +35,14 @@ nav#menu ul li.current_page_item a{
 .hentry/*, .widget*/{
 	background-color: whitesmoke;
 }
-
+/* /// [End] Global /// */
 
 
 
 /* The Page Layout */
-
 div#page-wrap.contain{
 	width: auto;
 }
-
 
 /* ////// Top Nav Bar ////// */
 header#branding{
@@ -60,8 +59,7 @@ nav#menu{
 	display: inline-block;
 	width: auto;
 	float: none;
-
-	margin: 30px 0 0 45px;
+	margin: 30px 0 0 92px;
 }
 nav#menu .menu ul{
 	margin-right: 10px;
@@ -70,14 +68,13 @@ nav#menu .menu ul{
 #menu li:last-child{
 	margin-right: 7px;
 }
-
-
-/* ////// End Top Nav Bar ////// */
+/* ////// [End] Top Nav Bar ////// */
 
 
 
+/* ////// Container ////// */
 #container.contain{
-	width: 1240px;
+	width: 1160px;
 	margin: 0 auto;
 }
 
@@ -88,13 +85,11 @@ nav#menu .menu ul{
 }
 
 #main{
-	width: 750px;
+	width: 680px;
 }
-
 #sidebar{
 	width: 440px;
 }
-
 #sidebar h2{
 	width: 105%;
 }
@@ -102,16 +97,42 @@ nav#menu .menu ul{
 #sidebar .widget ul li{
 	list-style-type: none;
 }
-
 li#social_media{
 	height: 173.2px;
 }
-
 li#social_media ul{
 	overflow: visible;
 }
-
 li.fb-like{
 	position: relative;
 	top: -23px;
 }
+/* ////// [END] Container ////// */
+
+
+
+/*  Home Page Style */
+article#post-home p{
+	font-size: 1.2em;
+}
+/* [END] Home Page Style */
+
+
+/*  About Page Style */
+article#post-about span{
+	text-align: center;
+}
+
+article#post-about h1,
+article#post-about h2{
+	position: relative;
+}
+
+article#post-about h1{
+	right: 50px;
+}
+article#post-about h2{
+	left: 50px;
+}
+/* [END] About Page Style */
+

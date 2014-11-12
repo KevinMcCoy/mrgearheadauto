@@ -16,81 +16,103 @@
 
 					<div class="entry-content">
 <h2>Our Repair and Maintenance Services:</h2>
+<h4>Auto Repair:</h4>
 <ul>
-	•	Auto Repair
-	◦	A/C Repair
-	▪	Air Conditioning Evac/Recharge Service
-	◦	Air Intake Cleaning & Filter Changing
-	◦	Anti-Lock Brake Service & Diagnostics
-	◦	Battery Service
-	▪	Battery System Testing
-	◦	Belt and Hoses Replacement
-	◦	Wiper Blade Replacement
-	◦	Brake Service and Repair
-	▪	Brake Fluid Exchange
-	▪	Brake Pads Replacement
-	▪	Brake Rotors Replacement
-	▪	Resurface Rotors
-	▪	ABS System service and repair
-	▪	Drum and Rotor Service
-	▪	Hydraulic System Diagnosis and Repair
-	◦	Check Engine Light Diagnostics
-	◦	Chip Tuning
-	◦	Clutch Repairs & Replacement
-	◦	Complete Tuning
-	◦	Comprehensive Maintenance Inspection
-	◦	Computer Diagnostics (Check Engine Light, Air Bag Light, etc.
-	◦	Cooling System Service (Water Pumps, Radiators, etc.)
-	◦	Differential & Transfer Case (4WD) Service
-	◦	Drive Train Repair
-	◦	Drive-ability Issues
-	◦	Electrical
-	◦	Electrical and Computer Diagnosis
-	▪	No-Start Diagnostics / Driveability Diagnostics
-	▪	Electrical System Diagnosis and Repair
-	◦	Electrical and/or Wiring Problems
-	◦	Engine Repair
-	▪	Engine Head Gasket Repair
-	◦	Exhaust System Work
-	▪	Catalytic Converter
-	▪	Muffler Work
-	▪	Oxygen Sensor Replacement
-	▪	Custom Exhaust Bending and Installation
-	◦	Factory Recommended Services by Each Manufacturer
-	◦	Fuel Injection Repair
-	▪	Fuel Injection Cleaning & Service
-	◦	Heating & Air Conditioning Service
-	◦	Interior / Exterior Lighting Replacement
-	◦	Mechanical and Suspension Repairs
-	◦	Oil Change
-	◦	Performance Parts & Upgrades
-	◦	Power Steering
-	▪	Power Steering Fluid Exchange Service
-	▪	Power Steering Rack and Pinion Replacement
-	◦	Power Window & Door Lock Diagnosis and Repair
-	◦	Preventative Maintenance
-	▪	Preventative Maintenance Inspections
-	▪	Preventive Maintenance & Fluid Flushes
-	◦	Rotation and Check Tire Pressure
-	◦	Run-ability Issues
-	◦	Starting & Charging Diagnosis
-	◦	Steering and Suspension Service
-	◦	Suspension (includes struts, shocks, axles, control arm replacement)
-	▪	Shocks and Struts Work
-	▪	Axle and Control Arm Replacement
-	◦	Timing Belt and Water Pump Replacement
-	▪	Timing Belt and Drive Belt Replacement
-	▪	Timing Chain Replacement
-	▪	Water Pump Replacement
-	▪	Water Pump, Thermostat Replacement
-	◦	Transmission Service
-	▪	Transmission Fluid Exchange Service
-	▪	Transmission Replacement
-	◦	Tune-Ups, Air Filters, Fuel Filters
-	◦	
-	◦	Oil and Fluid Leak Repairs
-	◦	Alternator Testing and Replacement
-	◦	Inspect / Replace Alternators
+	<li>A/C Repair</li>
+	<ul>
+		<li>Air Conditioning Evac/Recharge Service</li>
+	</ul>
+	<li>Air Intake Cleaning &amp; Filter Changing</li>
+	<li>Anti-Lock Brake Service &amp; Diagnostics</li>
+	<li>Battery Service</li>
+	<ul>
+		<li>Battery System Testing
+	</ul>
+	<li>Belt and Hoses Replacement
+	<li>Wiper Blade Replacement
+	<li>Brake Service and Repair
+	<ul>
+		<li>Brake Fluid Exchange</li>
+		<li>Brake Pads Replacement</li>
+		<li>Brake Rotors Replacement</li>
+		<li>Resurface Rotors</li>
+		<li>ABS System service and repair</li>
+		<li>Drum and Rotor Service</li>
+		<li>Hydraulic System Diagnosis and Repair</li>
+	</ul>
+	<li>Check Engine Light Diagnostics</li>
+	<li>Chip Tuning</li>
+	<li>Clutch Repairs &amp; Replacement</li>
+	<li>Complete Tuning</li>
+	<li>Comprehensive Maintenance Inspection</li>
+	<li>Computer Diagnostics (Check Engine Light, Air Bag Light, etc.</li>
+	<li>Cooling System Service (Water Pumps, Radiators, etc.</li>
+	<li>Differential &amp; Transfer Case (4WD) Service</li>
+	<li>Drive Train Repair</li>
+	<li>Drive-ability Issues</li>
+	<li>Electrical</li>
+	<li>Electrical and Computer Diagnosis</li>
+	<ul>
+		<li>No-Start Diagnostics / Driveability Diagnostics</li>
+		<li>Electrical System Diagnosis and Repair</li>
+	</ul>
+	<li>Electrical and/or Wiring Problems</li>
+	<li>Engine Repair</li>
+	<ul>
+		<li>Engine Head Gasket Repair</li>
+	</ul>
+	<li>Exhaust System Work</li>
+	<ul>
+		<li>Catalytic Converter</li>
+		<li>Muffler Work</li>
+		<li>Oxygen Sensor Replacement</li>
+		<li>Custom Exhaust Bending and Installation</li>
+	<li>Factory Recommended Services by Each Manufacturer</li>
+	<li>Fuel Injection Repair</li>
+	<ul>
+		<li>Fuel Injection Cleaning &amp; Service</li>
+	</ul>
+	<li>Heating &amp; Air Conditioning Service</li>
+	<li>Interior / Exterior Lighting Replacement<li>
+	<li>Mechanical and Suspension Repairs<li>
+	<li>Oil Change<li>
+	<li>Performance Parts &amp; Upgrades<li>
+	<li>Power Steering<li>
+	<ul>
+		<li>Power Steering Fluid Exchange Service<li>
+		<li>Power Steering Rack and Pinion Replacement<li>
+	</ul>
+	<li>Power Window &amp; Door Lock Diagnosis and Repair<li>
+	<li>Preventative Maintenance<li>
+	<ul>
+		<li>Preventative Maintenance Inspections<li>
+		<li>Preventive Maintenance &amp; Fluid Flushes<li>
+	</ul>
+	<li>Rotation and Check Tire Pressure<li>
+	<li>Run-ability Issues<li>
+	<li>Starting &amp; Charging Diagnosis<li>
+	<li>Steering and Suspension Service<li>
+	<li>Suspension (includes struts, shocks, axles, control arm replacement)<li>
+	<ul>
+		<li>Shocks and Struts Work<li>
+		<li>Axle and Control Arm Replacement<li>
+	</ul>
+	<li>Timing Belt and Water Pump Replacement<li>
+	<ul>
+		<li>Timing Belt and Drive Belt Replacement<li>
+		<li>Timing Chain Replacement<li>
+		<li>Water Pump Replacement<li>
+		<li>Water Pump, Thermostat Replacement<li>
+	</ul>
+	<li>Transmission Service<li>
+	<ul>
+		<li>Transmission Fluid Exchange Service<li>
+		<li>Transmission Replacement<li>
+	</ul>
+	<li>Tune-Ups, Air Filters, Fuel Filters<li>
+	<li>Oil and Fluid Leak Repairs<li>
+	<li>Alternator Testing and Replacement<li>
+	<li>Inspect / Replace Alternators<li>
 </ul>
 					</div>
 				</article>

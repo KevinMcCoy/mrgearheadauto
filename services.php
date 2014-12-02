@@ -1,6 +1,6 @@
 <?php $thisPage = 'services';  include('head.php'); ?>
 
-<body class="home custom-background">
+<body class="services custom-background">
 
 	<div id="page-wrap" class="contain">
 		<?php include('nav.php'); ?>
@@ -73,46 +73,46 @@
 		<li>Fuel Injection Cleaning &amp; Service</li>
 	</ul>
 	<li>Heating &amp; Air Conditioning Service</li>
-	<li>Interior / Exterior Lighting Replacement<li>
-	<li>Mechanical and Suspension Repairs<li>
-	<li>Oil Change<li>
-	<li>Performance Parts &amp; Upgrades<li>
-	<li>Power Steering<li>
+	<li>Interior / Exterior Lighting Replacement</li>
+	<li>Mechanical and Suspension Repairs</li>
+	<li>Oil Change</li>
+	<li>Performance Parts &amp; Upgrades</li>
+	<li>Power Steering</li>
 	<ul>
-		<li>Power Steering Fluid Exchange Service<li>
-		<li>Power Steering Rack and Pinion Replacement<li>
+		<li>Power Steering Fluid Exchange Service</li>
+		<li>Power Steering Rack and Pinion Replacement</li>
 	</ul>
-	<li>Power Window &amp; Door Lock Diagnosis and Repair<li>
-	<li>Preventative Maintenance<li>
+	<li>Power Window &amp; Door Lock Diagnosis and Repair</li>
+	<li>Preventative Maintenance</li>
 	<ul>
-		<li>Preventative Maintenance Inspections<li>
-		<li>Preventive Maintenance &amp; Fluid Flushes<li>
+		<li>Preventative Maintenance Inspections</li>
+		<li>Preventive Maintenance &amp; Fluid Flushes</li>
 	</ul>
-	<li>Rotation and Check Tire Pressure<li>
-	<li>Run-ability Issues<li>
-	<li>Starting &amp; Charging Diagnosis<li>
-	<li>Steering and Suspension Service<li>
-	<li>Suspension (includes struts, shocks, axles, control arm replacement)<li>
+	<li>Rotation and Check Tire Pressure</li>
+	<li>Run-ability Issues</li>
+	<li>Starting &amp; Charging Diagnosis</li>
+	<li>Steering and Suspension Service</li>
+	<li>Suspension (includes struts, shocks, axles, control arm replacement)</li>
 	<ul>
-		<li>Shocks and Struts Work<li>
-		<li>Axle and Control Arm Replacement<li>
+		<li>Shocks and Struts Work</li>
+		<li>Axle and Control Arm Replacement</li>
 	</ul>
-	<li>Timing Belt and Water Pump Replacement<li>
+	<li>Timing Belt and Water Pump Replacement</li>
 	<ul>
-		<li>Timing Belt and Drive Belt Replacement<li>
-		<li>Timing Chain Replacement<li>
-		<li>Water Pump Replacement<li>
-		<li>Water Pump, Thermostat Replacement<li>
+		<li>Timing Belt and Drive Belt Replacement</li>
+		<li>Timing Chain Replacement</li>
+		<li>Water Pump Replacement</li>
+		<li>Water Pump, Thermostat Replacement</li>
 	</ul>
-	<li>Transmission Service<li>
+	<li>Transmission Service</li>
 	<ul>
-		<li>Transmission Fluid Exchange Service<li>
-		<li>Transmission Replacement<li>
+		<li>Transmission Fluid Exchange Service</li>
+		<li>Transmission Replacement</li>
 	</ul>
-	<li>Tune-Ups, Air Filters, Fuel Filters<li>
-	<li>Oil and Fluid Leak Repairs<li>
-	<li>Alternator Testing and Replacement<li>
-	<li>Inspect / Replace Alternators<li>
+	<li>Tune-Ups, Air Filters, Fuel Filters</li>
+	<li>Oil and Fluid Leak Repairs</li>
+	<li>Alternator Testing and Replacement</li>
+	<li>Inspect / Replace Alternators</li>
 </ul>
 					</div>
 				</article>

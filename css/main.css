@@ -1,17 +1,15 @@
 /* CSS Written by Kevin McCoy 2014 */
 
 /* Global */
+body{
+	min-width: 1160px;
+}
+
 body.custom-background{
-	/*background-color: rgb(233,61,28);*/
-	background-color:  #002244; /* rgb(3,21,64);  */
-	/*background-color: #001d54; */
+	background-color:  #002244; /* Blue */
 }
 
-body,
-body .hentry p{
-	color: #002244; /*rgb(3, 21, 64);*/
-}
-
+/* Font Color */
 h1, h2, h3, h4,
 a,
 body .widget,
@@ -21,13 +19,19 @@ nav#menu ul li a,
 h2.entry-title,
 h2.widget-title,
 span{
-	/*color: rgb(3,21,64);*/
-	color: #FB4F14; /*rgb(233,61,28);*/
+	color: #FB4F14; /* Orange near -> rgb(233,61,28);*/
 }
+
+body,
+body .hentry p,
+header h2#site-description a{
+	color: #002244; /* Blue near-> rgb(3, 21, 64);*/
+}
+/* [END] - Font Color */
 
 body .widget,
 nav#menu ul li.current_page_item a{
-	color: whitesmoke;
+	color: rgb(205, 205, 205);
 }
 
 nav#menu ul li.current_page_item a{
@@ -43,9 +47,6 @@ nav#menu ul li.current_page_item a{
 ul {list-style-type: square;}
 ul ul {list-style-type: disc;}
 ul ul ul {list-style-type: circle;}
-
-
-
 /* /// [End] Global /// */
 
 
@@ -57,20 +58,37 @@ div#page-wrap.contain{
 
 /* ////// Top Nav Bar ////// */
 header#branding{
-	width: 1042px;
-	margin: 0 auto;
-	padding-left: 40px;
+	width: 100%;
+	height: 130px;
+	background-image: url('../images/brushed-steal-3.jpg');
+	background-repeat: repeat;
+	min-width: 960px;
+	padding-top: 12px;
+	border-bottom: 6px solid #002244; /* Blue */
 }
 
-header h1, header h2{
-	float: left;
+header div.contain{
+	max-width: 1160px;
+	margin: 0 auto;
+}
+
+header div#escapehatch{
+	display: inline-block;
+	margin-left: 60px;
+}
+
+header h1{
+	text-shadow: 2px 2px #002244; /* Blue */
+}
+header h2{
+	text-shadow: 1px 1px #FB4F14; /* Orange */
 }
 
 nav#menu{
 	display: inline-block;
 	width: auto;
 	float: none;
-	margin: 30px 0 0 92px;
+	margin: 30px 0 0 108px;
 }
 nav#menu .menu ul{
 	margin-right: 10px;
@@ -134,16 +152,20 @@ article#post-about span{
 	text-align: center;
 }
 
+article#post-about h3{
+	margin-left: 35px;
+}
+
 article#post-about h1,
 article#post-about h2{
 	position: relative;
 }
 
-article#post-about h1{
-	right: 50px;
-}
-article#post-about h2{
+article#post-about span h1{
+	right: 60px;
+}article#post-about span h2{
 	left: 50px;
 }
+
 /* [END] About Page Style */
 

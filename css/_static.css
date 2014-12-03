@@ -1485,7 +1485,7 @@ body {
 	color: #989eae;
 	font-size: 14px;
 	margin: 0;
-	padding: 15px 0 30px;
+	padding: 0px 0 30px;
 }
 #page-wrap {
 	margin: 0 auto;
@@ -1860,7 +1860,6 @@ h1#site-title a,
 h2#site-description a {
 	color: #cccfd7;
 	display: block;
-	text-decoration: none;
 }
 
 

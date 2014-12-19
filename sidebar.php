@@ -12,7 +12,9 @@
 		</div>
 		<div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=5923+north+nevada+ave+colorado+springs,+colorado+80918" target="_blank">5923 North Nevada Ave
 			<br/>Colorado Springs, Colorado 80918</a>
+			<br/>719-264-1022
 		</div>
+
 		<div class="confit-hours">Monday - Friday 8:00am - 6:00pm
 			<br/>Saturday  8:00am-5:00pm
 		</div>

@@ -1835,32 +1835,7 @@ caption {
 }
 
 
-/* =Header
--------------------------------------------------------------- */
 
-#branding {
-	font-size: 12px;
-	margin: 0 auto 15px;
-	min-height: 100px;
-	text-shadow: #000 1px 1px 2px;
-	width: 950px;
-}
-h1#site-title {
-	font-size: 40px;
-	font-weight: normal;
-	line-height: 47px;
-	margin: 20px 0 0 15px;
-}
-h2#site-description {
-	font-size: 16px;
-	line-height: 1.5;
-	margin: 0 0 20px 15px;
-}
-h1#site-title a,
-h2#site-description a {
-	color: #cccfd7;
-	display: block;
-}
 
 
 /* =Menu

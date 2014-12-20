@@ -2,7 +2,6 @@
 	<div class="contain">
 		<div id="escapehatch">
 			<h1 id="site-title"><a href="index.php">Mr.Gearhead Auto</a></h1>
-			<h2 id="site-description"><a href="index.php">We get it right the first time!</a></h2>
 			<h2 id="site-phone">719-264-1022</h2>
 		</div>
 		<nav id="menu" role="navigation">

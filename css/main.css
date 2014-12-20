@@ -59,11 +59,9 @@ div#page-wrap.contain{
 /* ////// Top Nav Bar ////// */
 header#branding{
 	width: 100%;
-	height: 130px;
 	background-image: url('../images/brushed-steal-3.jpg');
 	background-repeat: repeat;
 	min-width: 960px;
-	padding-top: 12px;
 	border-bottom: 6px solid #002244; /* Blue */
 }
 
@@ -110,7 +108,9 @@ header h1, h2#site-phone{
 }
 
 h2#site-phone{
-	margin: 0 0 0 15px;
+	margin: 0 0 12px 15px;
+	font-size: 5.5em;
+
 }
 
 header h2{
@@ -119,9 +119,11 @@ header h2{
 
 nav#menu{
 	display: inline-block;
+	position: relative;
+	top: 4px;
 	width: auto;
 	float: none;
-	margin: 30px 0 0 108px;
+	margin-left: 108px;
 }
 nav#menu .menu ul{
 	margin-right: 10px;

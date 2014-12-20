@@ -24,7 +24,8 @@ span{
 
 body,
 body .hentry p,
-header h2#site-description a{
+header h2#site-description a,
+h2#site-phone{
 	color: #002244; /* Blue near-> rgb(3, 21, 64);*/
 }
 /* [END] - Font Color */
@@ -110,7 +111,7 @@ header h1, h2#site-phone{
 h2#site-phone{
 	margin: 0 0 12px 15px;
 	font-size: 5.5em;
-
+	text-shadow: 1px 1px #FB4F14; /* Orange */
 }
 
 header h2{

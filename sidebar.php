@@ -24,8 +24,8 @@
 	<li id="text-2" class="widget widget_text">
 		<h2 class="widget-title">Payment Methods</h2>
 		<div class="textwidget">
-			<p>We take credit cards, check and cash.</p>
-			<p>Payment solutions: No credit check financing</p>
+			<p>We accept major credit cards, check with ID and cash.</p>
+			<p>Payment solutions: No credit check financing, call us today for more info.</p>
 		</div>
 	</li>
 

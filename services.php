@@ -16,7 +16,7 @@
 
 					<div class="entry-content">
 <h2>Our Repair and Maintenance Services:</h2>
-<h4>Auto Repair:</h4>
+<!-- <h4>Auto Repair:</h4> -->
 <ul>
 	<li>A/C Repair</li>
 	<ul>

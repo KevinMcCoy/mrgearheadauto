@@ -8,6 +8,18 @@ body{
 body.custom-background{
 	background-color:  #002244; /* Blue */
 }
+.fright{
+	float: right;
+}
+
+
+
+
+/* Font Size */
+/* Home Page */
+article#post-home p{
+	font-size: 1.2em;
+}
 
 /* Font Color */
 h1, h2, h3, h4,
@@ -29,6 +41,8 @@ h2#site-phone{
 	color: #002244; /* Blue near-> rgb(3, 21, 64);*/
 }
 /* [END] - Font Color */
+
+
 
 body .widget,
 nav#menu ul li.current_page_item a{
@@ -174,11 +188,31 @@ li.fb-like{
 }
 /* ////// [END] Container ////// */
 
-
+/*
+===========================================================================
+===========================================================================
+===========================================================================
+===========================================================================
+*/
 
 /*  Home Page Style */
-article#post-home p{
-	font-size: 1.2em;
+article#post-home img.fright{
+	margin: 30px 0 0 8px;
+	border-radius: 7px;
+}
+
+article#post-home p.wlist{
+	margin-bottom: -20px;
+}
+
+article#post-home div.entry-content{
+	margin-bottom: -7px;
+	padding-bottom: 0px;
+}
+article#post-home img.fullWith{
+	margin-left: -15px;
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
 }
 /* [END] Home Page Style */
 
@@ -201,6 +235,11 @@ article#post-about span h1{
 	right: 60px;
 }article#post-about span h2{
 	left: 50px;
+}
+
+article#post-about img{
+	margin: 0 auto;
+	display: block;
 }
 
 /* [END] About Page Style */

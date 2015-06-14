@@ -15,8 +15,8 @@
 			<br/>719-264-1022
 		</div>
 
-		<div class="confit-hours">Monday - Friday 8:00am - 6:00pm
-			<br/>Saturday  8:00am-5:00pm
+		<div class="confit-hours">Monday - Saturday 8:00am - 5:00pm
+			<!-- <br/>Saturday  8:00am-5:00pm -->
 		</div>
 	</li>
 

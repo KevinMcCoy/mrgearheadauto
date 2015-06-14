@@ -25,7 +25,7 @@
 		<h2 class="widget-title">Payment Methods</h2>
 		<div class="textwidget">
 			<p>We accept major credit cards, check with ID and cash.</p>
-			<p>Payment solutions: No credit check financing, call us today for more info.</p>
+			<!-- <p>Payment solutions: No credit check financing, call us today for more info.</p> -->
 		</div>
 	</li>
 

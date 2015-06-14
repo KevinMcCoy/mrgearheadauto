@@ -18,18 +18,15 @@
 
 					<div class="entry-content">
 <img class="fright" src="images/home/store.png" alt="Store Front Window" height="227" width="317">
-<p class="wlist">Come visit Mr. Gearhead in <b>Colorado Springs</b>! We are proud to specialize in <b>Auto Repair</b>.
-  As the premier auto repair shop in Colorado Springs, our highly-trained automotive mechanic takes great pride in supplying:
+<p class="wlist">Come visit Mr. Gearhead in <b>Colorado Springs!</b> We are proud to specialize in <b>Auto Repair</b>.
+	As the premier auto repair shop in Colorado Springs, our highly-trained automotive mechanic takes great pride in each
+	vehicle he repairs.  Mr. Gearhead focuses on Auto Repair, Diagnostics, Engine Repair, Brake Repair, Auto Electrical Service,
+	and Custom Exhaust Repair; we also provide a long range of other auto repair services listed on our <a href="services.php">Services Information</a> page.
+	No matter what your vehicle needs, come see us at Mr. Gearhead Auto Repair today!
+	From brakes to transmission and engine work, we are the best one-stop auto repair shop in Colorado Springs.
+	We provide trustworthy, fast, reliable, and quality work at the right price.  Don’t just pass through; come see us for any of your auto repair needs.
 </p>
-<b><ul>
-	<li>Engine Repair</li>
-	<li>Brake Repair</li>
-	<li>Auto Electrical Service</li>
-	<li>Custom Exhaust Repair</li>
-</ul></b>
 
-<p>Mr. Gearhead focuses on Auto Repair, Engine Repair, Brake Repair, Auto Electrical Service and Custom Exhaust Repair; we also provide a long range of other auto repair services listed on our <a href="services.php">services information page</a>.</p>
-<p>No matter what your vehicle needs, come see us at Mr. Gearhead Auto Repair today! From Brakes to transmission to engine work, we are the best one stop auto repair shop in Colorado Springs. We provide trustworthy, fast, reliable, and quality work at the right price. Don’t just pass through; come see us for any of your auto repair needs.</p>
 <img class="fullWith" src="images/home/storeWide.png" alt="Store Front Window" height="678" width="300">
 					</div>
 

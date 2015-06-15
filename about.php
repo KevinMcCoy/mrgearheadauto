@@ -37,8 +37,6 @@
  to inquire about how we can help with your specific automobile concerns. And if you're in the Colorado Springs area, feel free to stop by the shop and say hello, even if you aren't currently in need of auto repair or maintenance services. We'd be delighted to introduce ourselves, show you around the facility and answer any questions you may have about our business and our services.</p>
 
 
-<img class="" src="images/about/1.png" alt="Store Front Window" height="678" width="300">
-
 
 					</div>
 				</article>

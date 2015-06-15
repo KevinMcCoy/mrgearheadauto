@@ -24,7 +24,8 @@
 <h3>Services and Specialties</h3>
 <p>Mr. Gearhead is pleased to offer a wide variety of the most commonly requested auto maintenance and auto repair services which include: oil changes, brake services, tire rotations, timing belt replacements, and many more.</p>
 <p>In addition to the services mentioned above, we specialize in several types of truck and auto repair service, including: Auto Repair, Engine Repair, Brake Repair, Auto Electrical Service and Custom Exhaust Repair</p>
-<!-- <img class="" src="images/about/2.png" alt="Store Front Window" height="678" width="300"> -->
+
+<img class="" src="images/about/1.png" alt="Store Front Window" height="678" width="300">
 
 <span>
 	<h1>Contact Us...<h1>

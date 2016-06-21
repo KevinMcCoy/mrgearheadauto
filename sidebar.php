@@ -10,12 +10,14 @@
 			<input type="hidden" id="contact-info-map-lon" value="-104.8142368" />
 			<div id="contact-info-map-canvas"></div>
 		</div>
-		<div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=5923+north+nevada+ave+colorado+springs,+colorado+80918" target="_blank">5923 North Nevada Ave
+		<div class="confit-address">
+			<a href="http://maps.google.com/maps?z=16&#038;q=5923+north+nevada+ave+colorado+springs,+colorado+80918" target="_blank">5923 North Nevada Ave
 			<br/>Colorado Springs, Colorado 80918</a>
 			<br/>719-264-1022
 		</div>
 
-		<div class="confit-hours">Monday - Saturday 8:00am - 5:00pm
+		<div class="confit-hours">
+			Monday - Saturday 9:00am - 5:00pm or by appointment
 			<!-- <br/>Saturday  8:00am-5:00pm -->
 		</div>
 	</li>
@@ -41,9 +43,9 @@
 			</li>
 			<li>
 				<a class="twitter-follow-button"
-				  href="https://twitter.com/mrgearheadauto"
-				  data-show-count="false"
-				  data-lang="en">
+					href="https://twitter.com/mrgearheadauto"
+					data-show-count="false"
+					data-lang="en">
 				Follow @mrgearheadauto
 				</a>
 			</li>

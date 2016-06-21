@@ -57,9 +57,11 @@
 		<li>Electrical System Diagnosis and Repair</li>
 	</ul>
 	<li>Electrical and/or Wiring Problems</li>
-	<li>Engine Repair</li>
+	<li>Engine Services</li>
 	<ul>
 		<li>Engine Head Gasket Repair</li>
+		<li>New/Used Engine Swap</li>
+		<li>Sikky Manufacturing Swap Upgrade</li>
 	</ul>
 	<li>Exhaust System Work</li>
 	<ul>

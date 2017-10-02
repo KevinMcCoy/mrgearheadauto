@@ -36,7 +36,7 @@
 		<h2 class="widget-title">Connect With Us on Social Media!</h2>
 		<ul class=''>
 			<li class="fb-like">
-				<div class="fb-like" data-href="https://www.facebook.com/mrgearheadllc" data-layout="button" data-action="recommend" data-show-faces="true" data-share="true"></div>
+				<div class="fb-like" data-href="https://www.facebook.com/mrgearheadauto" data-layout="button" data-action="recommend" data-show-faces="true" data-share="true"></div>
 			<li>
 				<!-- Google Plus - Place this tag where you want the widget to render. -->
 				<div class="g-follow" data-annotation="none" data-height="24" data-href="//plus.google.com/u/0/113003904954446197033" data-rel="publisher"></div>

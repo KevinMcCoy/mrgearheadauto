@@ -19,19 +19,19 @@
 <!-- <h4>Auto Repair:</h4> -->
 <ul>
 	<li>A/C Repair</li>
-	<ul>
+	<li><ul>
 		<li>Air Conditioning Evac/Recharge Service</li>
-	</ul>
+	</ul></li>
 	<li>Air Intake Cleaning &amp; Filter Changing</li>
 	<li>Anti-Lock Brake Service &amp; Diagnostics</li>
 	<li>Battery Service</li>
-	<ul>
+	<li><ul>
 		<li>Battery System Testing
-	</ul>
+	</ul></li>
 	<li>Belt and Hoses Replacement
 	<li>Wiper Blade Replacement
 	<li>Brake Service and Repair
-	<ul>
+	<li><ul>
 		<li>Brake Fluid Exchange</li>
 		<li>Brake Pads Replacement</li>
 		<li>Brake Rotors Replacement</li>
@@ -39,7 +39,7 @@
 		<li>ABS System service and repair</li>
 		<li>Drum and Rotor Service</li>
 		<li>Hydraulic System Diagnosis and Repair</li>
-	</ul>
+	</ul></li>
 	<li>Check Engine Light Diagnostics</li>
 	<li>Chip Tuning</li>
 	<li>Clutch Repairs &amp; Replacement</li>
@@ -52,69 +52,76 @@
 	<li>Drive-ability Issues</li>
 	<li>Electrical</li>
 	<li>Electrical and Computer Diagnosis</li>
-	<ul>
+	<li><ul>
 		<li>No-Start Diagnostics / Driveability Diagnostics</li>
 		<li>Electrical System Diagnosis and Repair</li>
-	</ul>
+	</ul></li>
 	<li>Electrical and/or Wiring Problems</li>
+	<li><ul>
+		<li>Alternator Testing and Inspecting</li>
+		<li>Replace Alternators</li>
+	</ul></li>
 	<li>Engine Services</li>
-	<ul>
+	<li><ul>
 		<li>Engine Head Gasket Repair</li>
 		<li>New/Used Engine Swap</li>
 		<li>Sikky Manufacturing Swap Upgrade</li>
-	</ul>
+	</ul></li>
 	<li>Exhaust System Work</li>
-	<ul>
+	<li><ul>
 		<li>Catalytic Converter</li>
 		<li>Muffler Work</li>
 		<li>Oxygen Sensor Replacement</li>
 		<li>Custom Exhaust Bending and Installation</li>
+	</ul></li>
 	<li>Factory Recommended Services by Each Manufacturer</li>
 	<li>Fuel Injection Repair</li>
-	<ul>
+	<li><ul>
 		<li>Fuel Injection Cleaning &amp; Service</li>
-	</ul>
+	</ul></li>
 	<li>Heating &amp; Air Conditioning Service</li>
 	<li>Interior / Exterior Lighting Replacement</li>
 	<li>Mechanical and Suspension Repairs</li>
-	<li>Oil Change</li>
+	<li>Oil</li>
+	<li><ul>
+		<li>Oil Change</li>
+		<li>Oil Leak Repairs</li>
+	</ul></li>
 	<li>Performance Parts &amp; Upgrades</li>
 	<li>Power Steering</li>
-	<ul>
+	<li><ul>
 		<li>Power Steering Fluid Exchange Service</li>
 		<li>Power Steering Rack and Pinion Replacement</li>
-	</ul>
+	</ul></li>
 	<li>Power Window &amp; Door Lock Diagnosis and Repair</li>
 	<li>Preventative Maintenance</li>
-	<ul>
+	<li><ul>
 		<li>Preventative Maintenance Inspections</li>
 		<li>Preventive Maintenance &amp; Fluid Flushes</li>
-	</ul>
+	</ul></li>
 	<li>Rotation and Check Tire Pressure</li>
 	<li>Run-ability Issues</li>
 	<li>Starting &amp; Charging Diagnosis</li>
 	<li>Steering and Suspension Service</li>
 	<li>Suspension (includes struts, shocks, axles, control arm replacement)</li>
-	<ul>
+	<li><ul>
 		<li>Shocks and Struts Work</li>
 		<li>Axle and Control Arm Replacement</li>
-	</ul>
+	</ul></li>
 	<li>Timing Belt and Water Pump Replacement</li>
-	<ul>
+	<li><ul>
 		<li>Timing Belt and Drive Belt Replacement</li>
 		<li>Timing Chain Replacement</li>
 		<li>Water Pump Replacement</li>
 		<li>Water Pump, Thermostat Replacement</li>
-	</ul>
+	</ul></li>
 	<li>Transmission Service</li>
-	<ul>
+	<li><ul>
 		<li>Transmission Fluid Exchange Service</li>
 		<li>Transmission Replacement</li>
-	</ul>
+	</ul></li>
 	<li>Tune-Ups, Air Filters, Fuel Filters</li>
-	<li>Oil and Fluid Leak Repairs</li>
-	<li>Alternator Testing and Replacement</li>
-	<li>Inspect / Replace Alternators</li>
+
 </ul>
 					</div>
 				</article>

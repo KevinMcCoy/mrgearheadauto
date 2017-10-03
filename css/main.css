@@ -218,7 +218,7 @@ article#post-home img.fullWith{
 
 
 /*  About Page Style */
-article#post-about span{
+article#post-about div.span{
 	text-align: center;
 }
 
@@ -231,9 +231,9 @@ article#post-about h2{
 	position: relative;
 }
 
-article#post-about span h1{
+article#post-about div.span h1{
 	right: 60px;
-}article#post-about span h2{
+}article#post-about div.span h2{
 	left: 50px;
 }
 
@@ -243,4 +243,3 @@ article#post-about img{
 }
 
 /* [END] About Page Style */
-

@@ -29,10 +29,12 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mrgearheadauto.wordpress.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" />
 
 <meta name="generator" content="Hand Made" />
 <link rel='canonical' href='http://mrgearheadauto.com/' />
 <link rel='shortlink' href='http://192.241.145.32/mrgearheadauto.com/' />
+<link rel='shortlink' href='http://45.55.57.206/mrgearheadauto.com/' />
 <!-- <link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fmrgearheadauto.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fmrgearheadauto.com%2F&amp;for=wpcom-auto-discovery" /> -->
 
 <!-- Jetpack Open Graph Tags -->
@@ -71,12 +73,6 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 	<meta name="twitter:card" content="summary" />
 	<script type="text/javascript">
 		window.twttr = (function (d, s, id) {
-		  var t, js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src= "https://platform.twitter.com/widgets.js";
-		  fjs.parentNode.insertBefore(js, fjs);
-		  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
 		}(document, "script", "twitter-wjs"));
 	</script><!-- [End] Twitter -->
 
@@ -84,13 +80,7 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 
 	<!-- Google Tracking -->
 	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-57287829-1', 'auto');
-	  ga('send', 'pageview');
 	</script>
 
 </head>

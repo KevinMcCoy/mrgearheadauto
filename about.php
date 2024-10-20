@@ -4,7 +4,7 @@
 
 	<div id="page-wrap" class="contain">
 
-	<?php include('nav.php'); ?>
+		<?php include('nav.php'); ?>
 
 		<div id="container" class="contain">
 
@@ -35,10 +35,7 @@
 <p>Call us at <span>(719) 264-1022</span> or email us
 <a href="mailto:mr.gearheadllc@gmail.com?subject=Inquire%20to%20Mr.%20Gearhead%20Auto">Mr.Gearheadllc&commat;gmail.com</a>
  to inquire about how we can help with your specific automobile concerns. And if you're in the Colorado Springs area, feel free to stop by the shop and say hello, even if you aren't currently in need of auto repair or maintenance services. We'd be delighted to introduce ourselves, show you around the facility and answer any questions you may have about our business and our services.</p>
-
-
-
-					</div>
+					</div><!-- entry-content -->
 				</article>
 			</div><!-- end main -->
 

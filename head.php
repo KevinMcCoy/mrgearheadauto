@@ -43,9 +43,9 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 
 	<!-- default CSS  -  Main.CSS -->
 	<link rel="stylesheet" type="text/css" media='all' href="css/_static.css?v=<?= filemtime('css/_static.css')?>">
-	<link rel="stylesheet" type="text/css" media='print' href="css/global-print.css?v=<?= filemtime('css/_static.css')?>">
-	<link rel="stylesheet" type="text/css" href="css/style.css?v=<?= filemtime('css/_static.css')?>">
-	<link rel="stylesheet" type="text/css" href="css/main.css?v=<?= filemtime('css/_static.css')?>">
+	<link rel="stylesheet" type="text/css" media='print' href="css/global-print.css?v=<?= filemtime('css/global-print.css')?>">
+	<link rel="stylesheet" type="text/css" href="css/style.css?v=<?= filemtime('css/style.css')?>">
+	<link rel="stylesheet" type="text/css" href="css/main.css?v=<?= filemtime('css/main.css')?>">
 
 	<!-- Google Plus Button - Place this tag in your head or just before your close body tag. -->
 	<script src="https://apis.google.com/js/platform.js" async defer></script>

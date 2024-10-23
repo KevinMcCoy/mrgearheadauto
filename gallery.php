@@ -12,27 +12,68 @@
 					<div class="title">
 						<h2 class="entry-title">Mr. Gearhead Gallery</h2>
 					</div><!-- end title -->
-					<div class="entry-content">
+					<div class="entry-content container">
+						<!-- Container for the image gallery -->
 
-<?php
 
-//Setup for Gallery
-$directory = 'images/gallery/';
+<?php //Setup for Gallery
+$directory = 'images/gallery/'; ?>
+
+<?php // cycle each image file
 foreach(array_slice(scandir($directory), 2) as $ifile){
 	$iinfo = getimagesize($directory.$ifile);
 	if( $iinfo !== false){
-		echo '<br>';
 		// echo $iinfo[0].'<br>'; //w
 		// echo $iinfo[1].'<br>'; //h
 		// echo $iinfo[3].'<br>'; //width="4160" height="2340"
-		echo '<img src="'.$directory.$ifile.'" alt="" '.$iinfo[3].'>';
-		// echo '<img src="'.$directory.$ifile.'" alt="" width="540" height="840">';
-		echo '<br>';
+		?>
+		<!-- Full-width images with number text -->
+		<div class="mySlides">
+		<div class="numbertext">1 / 6</div>
+		    <?= '<img src="'.$directory.$ifile.'" alt="" '.$iinfo[3].' style="width:100%">'; ?>
+		</div>
+	<?php
 	}
+} //[END] Cycle each image file ?>
 
+<!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
 }
 
-?>
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("thumb");
+  let captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+
+
 
 					</div><!-- entry-content -->
 				</article>

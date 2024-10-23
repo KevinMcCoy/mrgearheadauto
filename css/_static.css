@@ -2010,7 +2010,8 @@ caption {
 	margin-bottom: 0;
 }
 .hentry img {
-	max-width: 678px;
+	/* max-width: 678px; */
+	max-width: 648px;
 	width: auto;
 	height: auto;
 }

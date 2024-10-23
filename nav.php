@@ -8,6 +8,7 @@
 			<ul>
 				<li<?php if ($thisPage=="home") echo " class=\"current_page_item\""; ?>><a href="/">Home</a></li>
 				<li<?php if ($thisPage=="about") echo " class=\"current_page_item\""; ?>><a href="about">About Mr. Gear Head Auto</a></li>
+				<li<?php if ($thisPage=="gallery") echo " class=\"current_page_item\""; ?>><a href="gallery">Gallery</a></li>
 				<li<?php if ($thisPage=="services") echo " class=\"current_page_item\""; ?>><a href="services">Services</a></li>
 				<!-- <li<?php //if ($thisPage=="payment-methods") echo " class=\"current_page_item\""; ?>><a href="payment-methods.php">Payment Methods</a></li> -->
 			</ul>
